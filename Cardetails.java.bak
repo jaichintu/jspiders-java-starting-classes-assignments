@@ -1,0 +1,16 @@
+class Cardetails
+{
+public static void main(String[] args)
+{
+String carname = "Maruti";
+int price = 500000;
+char grade = 'A';
+
+
+System.out.println("car name is " +carname);
+System.out.println("price is " +price);
+System.out.println("grade is " +grade);
+
+}
+
+}

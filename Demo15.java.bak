@@ -1,0 +1,27 @@
+class Demo15
+{
+public static void main(String[] args)
+{
+
+if((9/3==3)||(49/7==7))
+{
+
+System.out.println("fizz buzz");
+}
+else(9/3==3)
+{
+System.out.println("fizz fizz");
+
+}
+else if(49/7==7)
+{
+System.out.println("buzz buzz");
+}
+else
+{
+
+System.out.println("invalid number");
+}
+}
+
+}

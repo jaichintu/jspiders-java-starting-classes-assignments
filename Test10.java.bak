@@ -1,0 +1,18 @@
+class Test10
+{
+static String cloth_colour = "blue";
+
+static int cloth_cost = 700;
+
+static int cloth_size = "XL";
+
+public static void main(String[] args)
+{
+System.out.println("colour " +cloth_colour);
+System.out.println("cost  " +cloth_cost);
+System.out.println("size  " +cloth_size);
+
+
+
+}
+}

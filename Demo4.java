@@ -1,0 +1,28 @@
+class Demo4
+{
+static void area_of_circle()
+{
+final double p = 3.143;
+
+int r = 30;
+
+double a = p*r*r;
+
+
+System.out.println("the value is " +a);
+
+
+
+}
+
+public static void main(String[] args)
+{
+System.out.println("......main starts......");
+
+area_of_circle();
+
+System.out.println("........main ends........");
+
+
+}
+}

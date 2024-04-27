@@ -1,0 +1,14 @@
+class Mobiledetails
+{
+public static void main(String[] args)
+{
+int mobilecost= 30000;
+String mobileName ="Samsung";
+String mobileColour = "Black";
+
+System.out.println("cost of the mobile is" +mobilecost);
+System.out.println("mobile name is" +mobileName);
+System.out.println("mobile colour" +mobileColour);
+
+}
+}

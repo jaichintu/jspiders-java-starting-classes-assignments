@@ -1,0 +1,20 @@
+class Demo665 {
+	{
+		sub(10,5);
+	}
+	static void sub(int x,int y)
+	{
+		int a=x-y;
+		System.out.println(a);
+		add(a);
+		
+	}
+	static void add(int a)
+	{
+		int b=a+a;
+		System.out.println(b);
+		
+		
+	}
+
+}

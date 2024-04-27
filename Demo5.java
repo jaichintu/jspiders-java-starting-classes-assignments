@@ -1,0 +1,70 @@
+class Demo5
+{
+static void add()
+{
+int a = 10;
+int b = 20;
+int c = a + b;
+
+System.out.println("the value is " +c);
+
+return;
+
+}
+
+static void multiply()
+{
+int a = 10;
+int b = 20;
+int c = 30;
+int d = a*b*c;
+
+System.out.println("the value is " +d);
+
+return;
+
+}
+static void sub()
+{
+int a = 10;
+int b = 20;
+int c = a - b;
+
+
+System.out.println("the value is " +c);
+
+return;
+
+}
+static void div()
+{
+int a = 10;
+int b = 20;
+int c = a/b;
+
+
+System.out.println("the value is " +c);
+
+return;
+
+}
+
+
+public static void main(String[] args)
+{
+System.out.println("......main starts......");
+
+multiply();
+sub();
+add();
+div();
+
+
+System.out.println("........main ends........");
+
+
+}
+
+
+
+}

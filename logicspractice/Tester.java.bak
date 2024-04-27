@@ -1,0 +1,15 @@
+class Tester
+{
+static void all(char oldchar, char newchar)
+{
+String str="kulla";
+System.out.println(str.replace());
+
+}
+public static void main(String[] args)
+{
+
+all('a','i');
+}
+
+}

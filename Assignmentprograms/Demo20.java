@@ -1,0 +1,25 @@
+class Tester20
+{
+static int area()
+{
+int w = 10;
+int h = 20;
+
+int a = w*h;
+
+return a;
+
+
+}
+}
+class Demo20
+{
+public static void main(String[] args)
+{
+int x = Tester20.area();
+System.out.println(x);
+
+}
+
+}
+
